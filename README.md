@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Kids Math Exerciser logo" width="180">
+</p>
+
 # math_whizz_app
 
 A new Flutter project.
